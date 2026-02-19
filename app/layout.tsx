@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { Noto_Sans_KR, Noto_Sans_KR } from 'next/font/google';
+import { Noto_Sans_KR } from 'next/font/google';
 import './globals.css';
 import { Navigation } from '@/components/Navigation';
 
